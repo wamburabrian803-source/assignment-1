@@ -2,7 +2,7 @@
 /*
 Name:BRIAN GACHOKI WAMBURA
 Reg:CT100/G/26160/25
-Description:user details
+Description:use_details
 */
 
 #include<stdio.h>
@@ -28,3 +28,4 @@ int main(){
 	
 	
  
+
