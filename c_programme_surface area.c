@@ -1,7 +1,7 @@
 /*
 Name:Brian Gachoki
 Reg no:CT100/G/26160/25
-Description:Program to compute the surface_area
+Description:surface_area.c_programme
 */
 
 #include <stdio.h>
